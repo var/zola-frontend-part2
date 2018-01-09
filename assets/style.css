@@ -107,4 +107,8 @@ body {
     .content-row {
         border-bottom: 2px solid white;
     }
+
+    .text-over-img {
+        margin-top: 20%;
+    }
 }
